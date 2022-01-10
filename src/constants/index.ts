@@ -1,0 +1,5 @@
+export const ACTIONS = {
+    DEPOSIT: "DEPOSIT",
+    WITHDRAW: "WITHDRAW",
+    BANKRUPT: "BANKRUPT",
+}
